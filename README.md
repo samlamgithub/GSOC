@@ -1,0 +1,4 @@
+GSOC
+====
+
+gsoc, sympy
